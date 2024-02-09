@@ -1,6 +1,6 @@
 Package: myplots.kn
 Title: This Package Contains Useful Plotting Functions
-Version: 0.0.0.9000
+Version: 0.0.1.0000
 Authors@R: 
     person("Kellen", "Nankervis", , "knankervis21@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
